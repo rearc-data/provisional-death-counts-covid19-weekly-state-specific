@@ -49,7 +49,7 @@ Resources:
       FunctionName:
         !Join
           - ''
-          - - 'source-revision-updates-for-'
+          - - 'source-'
             - !Ref DataSetName
       Description: "Source revision updates to AWS Data Exchange data set"
       Runtime: "python3.7"
@@ -85,7 +85,7 @@ Resources:
     Type: AWS::Events::Rule
     Properties:
       Description: "ScheduledRule"
-      ScheduleExpression: "cron(0 22 * * 3 *)"
+      ScheduleExpression: "cron(0 22 ? * TUE *)"
       State: "ENABLED"
       Targets:
         -
