@@ -1,0 +1,1 @@
+This report provides a weekly summary of deaths with coronavirus disease 2019 (COVID-19) by select geographic and demographic variables. In this release, counts of deaths are provided by the race and Hispanic origin of the decedent.
