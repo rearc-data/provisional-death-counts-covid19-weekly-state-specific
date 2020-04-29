@@ -15,7 +15,7 @@ The columns in this dataset are:
 - Source: [National Center for Health Statistics](https://data.cdc.gov/NCHS/Provisional-Death-Counts-for-Coronavirus-Disease-C/pj7m-y5uh)
 - Home Page: [CDC Data](https://data.cdc.gov)
 - Frequency: Weekly
-- Format: CSV
+- Format: CSV, JSON
 
 ## Contact Details
 - If you find any issues with or have enhancement ideas for this product, open up a GitHub [issue](https://github.com/rearc-data/provisional-death-counts-covid19-weekly-state-specific/issues) and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.
