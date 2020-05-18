@@ -2,7 +2,7 @@
 
 The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/provisional-death-counts-covid19-weekly-state-specific](https://github.com/rearc-data/provisional-death-counts-covid19-weekly-state-specific).
 
-## Main Description
+## Main Overview
 Provisional death counts are based on a current flow of mortality data in the National Vital Statistics System. National provisional counts include deaths occurring within the 50 states and the District of Columbia that have been received and coded as of the date specified. Data may be incomplete and will likely not include all deaths that occurred during a given time period, especially for the more recent time periods. Dataset is revised weekly and may increase or decrease as new and updated death certificate data are received from the states by NCHS. COVID-19 death counts shown may differ from other published sources, as data currently are lagged by an average of 1–2 weeks.
 
 #### Data Sources  
